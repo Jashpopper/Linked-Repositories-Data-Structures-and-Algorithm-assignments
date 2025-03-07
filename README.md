@@ -5,7 +5,7 @@
 - [1 My Repository](https://github.com/Jashpopper/Intro-to-Data-Structures-and-Algorithm
 )
 
-## SERUGO DENNIS
+## SERUGO DENNIS DELMAR
 - [2 My Repository ](https://github.com/delmardenis/dsa-assignment)
 
 ## NALUNKUMA ANISHA
