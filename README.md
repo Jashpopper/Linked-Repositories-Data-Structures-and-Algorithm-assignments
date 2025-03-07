@@ -6,7 +6,7 @@
 )
 
 ## SERUGO DENNIS
-- [2](https://github.com/member1-username/project-a)
+- [2](https://github.com/delmardenis/dsa-assignment)
 
 ## NALUNKUMA ANISHA
 - [3](https://github.com/member2-username/project-b)
